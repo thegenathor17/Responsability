@@ -1,0 +1,23 @@
+.btn
+{
+    margin: 10px;
+    font-size: 30px;
+    background-color: #9bbbba;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    color: #507482;
+    padding: 15px 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 5px;
+}
+.btn:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.btn:active
+{
+    transform: scale(1.10);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
