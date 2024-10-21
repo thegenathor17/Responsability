@@ -11,13 +11,13 @@
 }
 @media (max-width:600px){
     .centerText {
-        margin-left: 10vw;
-        margin-right: 10vw;
+        margin-left: 5vh;
+        margin-right: 5vh;
         margin-top: 5vh;
         margin-bottom: 5vh;
     }
     .centerText {
-        width: 80%;
-        margin: auto;
+        width: 90%;
+        margin: 0 auto;
     }
 }
