@@ -9,3 +9,16 @@
 {
     margin:5vh;
 }
+@media (max-width:600px){
+    .centerText
+    {
+        margin-left: 25vh;
+        margin-right: 25vh;
+        margin-top: 12.5vh;
+        margin-bottom: 12.5vh;
+    }
+    .tableDiv
+    {
+        margin:2.5vh;
+    }
+}
