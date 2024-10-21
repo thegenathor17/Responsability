@@ -128,18 +128,18 @@ li{
     }
     .text
     {
-      font-size: 12vw;
+      font-size: 8vw;
     }
     .tableText
     {
-     font-size: 12vw;
+     font-size: 8vw;
     }
     .subtitle
     {
-      font-size: 13.5vw;
+      font-size: 9vw;
     }
     .superSubtitle
     {
-        font-size: 15vw;
+        font-size: 10vw;
     }
 }
