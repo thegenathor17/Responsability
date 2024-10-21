@@ -10,15 +10,14 @@
     margin:5vh;
 }
 @media (max-width:600px){
-    .centerText
-    {
-        margin-left: 25vh;
-        margin-right: 25vh;
-        margin-top: 12.5vh;
-        margin-bottom: 12.5vh;
+    .centerText {
+        margin-left: 10vw;
+        margin-right: 10vw;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
     }
-    .tableDiv
-    {
-        margin:2.5vh;
+    .centerText {
+        width: 80%;
+        margin: auto;
     }
 }
